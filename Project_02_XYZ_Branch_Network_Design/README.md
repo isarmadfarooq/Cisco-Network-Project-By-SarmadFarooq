@@ -120,3 +120,6 @@ This network design ensures department-level segmentation via VLANs, DHCP-based 
 * Diagram the network using draw\.io or Cisco Packet Tracer
 * Perform testing in Packet Tracer or real devices
 * Prepare for security hardening and monitoring
+
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/139615b7-fbc2-496c-8711-311dc5aedd06" />
+
